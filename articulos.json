@@ -1,0 +1,13 @@
+[
+{
+    "id": 1,
+    "nombre" : "paracaidas",
+    "categoria" : "materiales"
+},
+
+{
+    "id": 2,
+    "nombre" : "barro",
+    "categoria" : "materiales"
+}
+]
